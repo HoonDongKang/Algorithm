@@ -1,5 +1,4 @@
 # MergeSort(0, N) = Merge(MergeSort(0, N/2) + MergeSort(N/2, N))
-
 def merge_sort(array):
   if len(array) <= 1:
       return array
