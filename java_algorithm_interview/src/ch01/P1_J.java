@@ -1,4 +1,4 @@
-package ch06;
+package ch01;
 
 public class P1_J {
     // 문자열의 처음과 끝 포인터를 선언

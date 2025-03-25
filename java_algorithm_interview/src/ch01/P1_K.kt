@@ -1,4 +1,4 @@
-package ch06
+package ch01
 
 class P1 {
     fun isPalindrome(s: String): Boolean {
