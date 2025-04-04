@@ -1,13 +1,14 @@
 function rob(nums: number[]): number {
-        let memoArr = new Array(nums.length).fill(-1);
-        function getMax(start: number): number {
-            if (nums.length - 1 < start) return 0;
-            if (memoArr[start] !== -1) return memoArr[start];
+      if (nums.length === 1) return nums[0];
 
-            memoArr[start] = Math.max(nums[start] + getMax(start + 2), getMax(start + 1));
+        let prev2 = 0;
+        let prev1 = 0;
 
-            return memoArr[start];
+        for (let num of nums) {
+            let current = Math.max(prev1, prev2 + num);
+            prev2 = prev1;
+            prev1 = current;
         }
 
-        return getMax(0)
+        return prev1;
 };
