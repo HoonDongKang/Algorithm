@@ -1,11 +1,10 @@
 function maxSubArray(nums: number[]): number {
-    let result = nums[0];
-    let sum = 0;
+    const dp = Array(nums.length).fill(0);
+    dp[0] = nums[0];
 
-    nums.forEach((num) => {
-        sum = Math.max(num, sum + num);
-        result = Math.max(sum, result);
-    });
+    for (let i = 1; i < nums.length; i++) {
+        dp[i] = Math.max(nums[i], dp[i - 1] + nums[i]);
+    }
 
-    return result;
-};
+    return Math.max(...dp);
+}
