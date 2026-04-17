@@ -11,6 +11,7 @@ Summarizing the lecture content
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -20,4 +21,12 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
