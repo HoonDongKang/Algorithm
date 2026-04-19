@@ -21,6 +21,7 @@ Summarizing the lecture content
 | [0636-exclusive-time-of-functions](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0941-valid-mountain-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0941-valid-mountain-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
