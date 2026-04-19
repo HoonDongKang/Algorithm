@@ -13,6 +13,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
+| [0066-plus-one](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -78,6 +79,7 @@ Summarizing the lecture content
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
