@@ -77,6 +77,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
@@ -96,6 +97,11 @@ Summarizing the lecture content
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
