@@ -129,4 +129,5 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
