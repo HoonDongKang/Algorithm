@@ -54,6 +54,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0520-detect-capital/) | Easy |
 | [0831-masking-personal-information](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0831-masking-personal-information/) | Medium |
@@ -116,4 +117,8 @@ Summarizing the lecture content
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1046-last-stone-weight](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/1354-construct-target-array-with-multiple-sums/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
