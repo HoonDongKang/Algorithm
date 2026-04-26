@@ -56,6 +56,7 @@ Summarizing the lecture content
 | [0006-zigzag-conversion](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
 | [0482-license-key-formatting](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0520-detect-capital/) | Easy |
+| [0831-masking-personal-information](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0831-masking-personal-information/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
