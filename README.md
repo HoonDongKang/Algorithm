@@ -57,6 +57,7 @@ Summarizing the lecture content
 | [0459-repeated-substring-pattern](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0520-detect-capital/) | Easy |
+| [0686-repeated-string-match](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [0831-masking-personal-information](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0831-masking-personal-information/) | Medium |
 ## Simulation
@@ -122,5 +123,6 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
+| [0686-repeated-string-match](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
