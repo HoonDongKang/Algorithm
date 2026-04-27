@@ -129,5 +129,10 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0206-reverse-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0328-odd-even-linked-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
