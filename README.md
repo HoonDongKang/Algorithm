@@ -72,6 +72,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -131,6 +132,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0206-reverse-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0328-odd-even-linked-list/) | Medium |
 ## Recursion
