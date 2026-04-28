@@ -14,6 +14,7 @@ Summarizing the lecture content
 | [0001-two-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -72,6 +73,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
