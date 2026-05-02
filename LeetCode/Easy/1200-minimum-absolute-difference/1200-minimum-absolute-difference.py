@@ -1,23 +1,16 @@
 class Solution:
     def minimumAbsDifference(self, arr: list[int]) -> list[list[int]]:
-        sorted_arr = sorted(arr)
+        arr.sort()
         min_diff = float('inf')
-        map = {}
+        result = []
 
-        for i,num in enumerate(sorted_arr):
-            if i == len(arr) - 1:
-                return map[min_diff]
-            
-            next = sorted_arr[i+1]
-            diff = next-num
-            min_diff = min(min_diff, diff)
+        for i in range(len(arr) - 1):
+            diff = arr[i+1] - arr[i]
 
-            if diff not in map:
-                map[diff] = []
-            
-            map[diff].append([num,next])
+            if diff < min_diff:
+                min_diff = diff
+                result = [[arr[i], arr[i+1]]]
+            elif diff == min_diff:
+                result.append([arr[i], arr[i+1]])
 
-        return map[min_diff]
-
-
-print(Solution().minimumAbsDifference([40,11,26,27,-20]))
+        return result
