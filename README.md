@@ -15,6 +15,7 @@ Summarizing the lecture content
 | [0004-median-of-two-sorted-arrays](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
+| [0056-merge-intervals](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -47,6 +48,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0645-set-mismatch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
