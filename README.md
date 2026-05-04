@@ -24,6 +24,7 @@ Summarizing the lecture content
 | [0485-max-consecutive-ones](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [0704-binary-search](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0941-valid-mountain-array/) | Easy |
@@ -58,6 +59,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0704-binary-search](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
