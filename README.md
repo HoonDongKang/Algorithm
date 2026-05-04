@@ -46,6 +46,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0633-sum-of-square-numbers](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Divide and Conquer
@@ -116,6 +118,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0066-plus-one](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
