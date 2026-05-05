@@ -55,6 +55,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0018-4sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0147-insertion-sort-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0147-insertion-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
@@ -163,6 +164,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
+| [0147-insertion-sort-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0147-insertion-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0328-odd-even-linked-list/) | Medium |
 ## Recursion
