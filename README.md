@@ -14,6 +14,7 @@ Summarizing the lecture content
 | [0001-two-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0056-merge-intervals](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
@@ -60,6 +61,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
