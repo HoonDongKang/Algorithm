@@ -30,6 +30,7 @@ Summarizing the lecture content
 | [0739-daily-temperatures](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [0932-beautiful-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0932-beautiful-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0941-valid-mountain-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
@@ -76,6 +77,7 @@ Summarizing the lecture content
 | [0004-median-of-two-sorted-arrays](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [0932-beautiful-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0932-beautiful-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@ Summarizing the lecture content
 | [0066-plus-one](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
+| [0932-beautiful-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0932-beautiful-array/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
