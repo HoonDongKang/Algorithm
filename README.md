@@ -14,6 +14,7 @@ Summarizing the lecture content
 | [0001-two-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
@@ -53,6 +54,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
@@ -60,6 +62,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0147-insertion-sort-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0147-insertion-sort-list/) | Medium |
