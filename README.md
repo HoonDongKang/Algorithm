@@ -57,6 +57,7 @@ Summarizing the lecture content
 | [0016-3sum-closest](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0481-magical-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0481-magical-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
+| [0481-magical-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0481-magical-string/) | Medium |
 | [0482-license-key-formatting](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0520-detect-capital/) | Easy |
 | [0686-repeated-string-match](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0686-repeated-string-match/) | Medium |
