@@ -96,6 +96,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
+| [0214-shortest-palindrome](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [0481-magical-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0481-magical-string/) | Medium |
@@ -181,6 +182,7 @@ Summarizing the lecture content
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
@@ -246,4 +248,12 @@ Summarizing the lecture content
 | [0219-contains-duplicate-ii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
