@@ -83,6 +83,7 @@ Summarizing the lecture content
 | [0633-sum-of-square-numbers](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2223-sum-of-scores-of-built-strings](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Summarizing the lecture content
 | [0831-masking-personal-information](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0831-masking-personal-information/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@ Summarizing the lecture content
 | [0686-repeated-string-match](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,9 +258,15 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 <!---LeetCode Topics End-->
