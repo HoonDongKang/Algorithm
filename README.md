@@ -27,6 +27,7 @@ Summarizing the lecture content
 | [0215-kth-largest-element-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0436-find-right-interval](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
@@ -75,6 +76,7 @@ Summarizing the lecture content
 | [0088-merge-sorted-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0147-insertion-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0436-find-right-interval](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [0645-set-mismatch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
@@ -85,6 +87,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0436-find-right-interval](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [0493-reverse-pairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
