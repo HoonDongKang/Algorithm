@@ -29,6 +29,7 @@ Summarizing the lecture content
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [0523-continuous-subarray-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0622-design-circular-queue](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
@@ -130,6 +131,7 @@ Summarizing the lecture content
 | [0219-contains-duplicate-ii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0645-set-mismatch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -160,6 +162,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0066-plus-one](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0932-beautiful-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0932-beautiful-array/) | Medium |
 ## Monotonic Stack
@@ -217,6 +220,7 @@ Summarizing the lecture content
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1590-make-sum-divisible-by-p/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
