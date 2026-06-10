@@ -49,6 +49,7 @@ Summarizing the lecture content
 | [1441-build-an-array-with-stack-operations](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1590-make-sum-divisible-by-p/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1664-ways-to-make-a-fair-array/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -92,6 +93,7 @@ Summarizing the lecture content
 | [0633-sum-of-square-numbers](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2223-sum-of-scores-of-built-strings](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
