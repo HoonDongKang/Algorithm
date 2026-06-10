@@ -110,6 +110,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
 | [0214-shortest-palindrome](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
+| [0394-decode-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [0481-magical-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0481-magical-string/) | Medium |
@@ -162,6 +163,7 @@ Summarizing the lecture content
 | [0084-largest-rectangle-in-histogram](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
@@ -232,6 +234,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
