@@ -5,22 +5,17 @@
 #         self.next = next
 class Solution:
     def mergeTwoLists(self, list1: ListNode, list2: ListNode) -> ListNode:
-        dummy = ListNode(0)
-        tail = dummy
-        heap = []
+        if not list1:
+            return list2
+        
+        if not list2:
+            return list1
+            
+        if list1.val <= list2.val:
+            list1.next = self.mergeTwoLists(list1.next, list2)
 
-        if list1:
-            heapq.heappush(heap, (list1.val, 0, list1))
-        if list2:
-            heapq.heappush(heap, (list2.val, 1, list2))
+            return list1
+        else:
+            list2.next = self.mergeTwoLists(list1, list2.next)
 
-        while heap:
-            val, i, node = heapq.heappop(heap)
-
-            tail.next = node
-            tail = tail.next
-
-            if node.next:
-                heapq.heappush(heap, (node.next.val, i, node.next))
-
-        return dummy.next
+            return list2
