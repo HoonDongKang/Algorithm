@@ -122,6 +122,7 @@ Summarizing the lecture content
 | [0831-masking-personal-information](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0831-masking-personal-information/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/1392-longest-happy-prefix/) | Hard |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1668-maximum-repeating-substring/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
@@ -313,4 +314,5 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0077-combinations](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 <!---LeetCode Topics End-->
