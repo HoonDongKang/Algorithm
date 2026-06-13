@@ -307,4 +307,8 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1668-maximum-repeating-substring](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1668-maximum-repeating-substring/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0077-combinations](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
