@@ -109,6 +109,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0214-shortest-palindrome](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
 | [0394-decode-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
@@ -311,4 +312,5 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0077-combinations](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 <!---LeetCode Topics End-->
