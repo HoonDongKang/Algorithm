@@ -43,6 +43,7 @@ Summarizing the lecture content
 | [0941-valid-mountain-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0941-valid-mountain-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
+| [1052-grumpy-bookstore-owner](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1052-grumpy-bookstore-owner/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/1354-construct-target-array-with-multiple-sums/) | Hard |
@@ -289,6 +290,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Rolling Hash
