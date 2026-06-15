@@ -1,5 +1,5 @@
 class Solution:
-    def numOfSubarrays(self, arr: List[int], k: int, threshold: int) -> int:
+    def numOfSubarrays(self, arr: list[int], k: int, threshold: int) -> int:
         target = k * threshold
         window_sum = sum(arr[:k])
         result = 0
@@ -7,9 +7,9 @@ class Solution:
         if window_sum >= target:
             result += 1
 
-        for num in range(k, len(arr)):
-            window_sum += arr[num]
-            window_sum -= arr[num - k]
+        for right in range(k, len(arr)):
+            window_sum += arr[right]
+            window_sum -= arr[right - k]
 
             if window_sum >= target:
                 result += 1
