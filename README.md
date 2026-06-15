@@ -44,6 +44,7 @@ Summarizing the lecture content
 | [1019-next-greater-node-in-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
@@ -288,6 +289,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
