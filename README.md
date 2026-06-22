@@ -23,6 +23,7 @@ Summarizing the lecture content
 | [0084-largest-rectangle-in-histogram](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
@@ -143,6 +144,7 @@ Summarizing the lecture content
 | [0001-two-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
@@ -323,4 +325,8 @@ Summarizing the lecture content
 | [0077-combinations](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
