@@ -42,6 +42,7 @@ Summarizing the lecture content
 | [0912-sort-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0932-beautiful-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0941-valid-mountain-array/) | Easy |
+| [0952-largest-component-size-by-common-factor](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1052-grumpy-bookstore-owner/) | Medium |
@@ -152,6 +153,7 @@ Summarizing the lecture content
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0645-set-mismatch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [0952-largest-component-size-by-common-factor](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1590-make-sum-divisible-by-p/) | Medium |
@@ -186,6 +188,7 @@ Summarizing the lecture content
 | [0523-continuous-subarray-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0932-beautiful-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0932-beautiful-array/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,4 +332,9 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0952-largest-component-size-by-common-factor/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 <!---LeetCode Topics End-->
