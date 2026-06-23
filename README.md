@@ -341,5 +341,6 @@ Summarizing the lecture content
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [2076-process-restricted-friend-requests](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2076-process-restricted-friend-requests/) | Hard |
 <!---LeetCode Topics End-->
