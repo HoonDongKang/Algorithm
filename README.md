@@ -157,6 +157,7 @@ Summarizing the lecture content
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1590-make-sum-divisible-by-p/) | Medium |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,4 +344,5 @@ Summarizing the lecture content
 | ------- | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [2076-process-restricted-friend-requests](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2076-process-restricted-friend-requests/) | Hard |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 <!---LeetCode Topics End-->
