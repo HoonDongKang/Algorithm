@@ -339,6 +339,7 @@ Summarizing the lecture content
 | [0952-largest-component-size-by-common-factor](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2076-process-restricted-friend-requests](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2076-process-restricted-friend-requests/) | Hard |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,15 +352,18 @@ Summarizing the lecture content
 | [1971-find-if-path-exists-in-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2076-process-restricted-friend-requests/) | Hard |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 <!---LeetCode Topics End-->
