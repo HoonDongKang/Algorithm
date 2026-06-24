@@ -341,6 +341,7 @@ Summarizing the lecture content
 | [1971-find-if-path-exists-in-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2076-process-restricted-friend-requests](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2076-process-restricted-friend-requests/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,6 +356,7 @@ Summarizing the lecture content
 | [2076-process-restricted-friend-requests](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2076-process-restricted-friend-requests/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
+| [2685-count-the-number-of-complete-components](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +364,7 @@ Summarizing the lecture content
 | [0797-all-paths-from-source-to-target](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +372,7 @@ Summarizing the lecture content
 | [0797-all-paths-from-source-to-target](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
