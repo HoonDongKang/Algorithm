@@ -48,6 +48,7 @@ Summarizing the lecture content
 | [1046-last-stone-weight](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1052-grumpy-bookstore-owner/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
+| [1311-get-watched-videos-by-your-friends](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -89,6 +90,7 @@ Summarizing the lecture content
 | [0645-set-mismatch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
+| [1311-get-watched-videos-by-your-friends](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 ## Binary Search
@@ -157,6 +159,7 @@ Summarizing the lecture content
 | [0523-continuous-subarray-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0645-set-mismatch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0952-largest-component-size-by-common-factor](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0952-largest-component-size-by-common-factor/) | Hard |
+| [1311-get-watched-videos-by-your-friends](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1590-make-sum-divisible-by-p/) | Medium |
@@ -351,6 +354,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
@@ -371,6 +375,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
