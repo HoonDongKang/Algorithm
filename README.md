@@ -59,6 +59,7 @@ Summarizing the lecture content
 | [1664-ways-to-make-a-fair-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1664-ways-to-make-a-fair-array/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
+| [1765-map-of-highest-peak](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1929-concatenation-of-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
@@ -370,6 +371,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
@@ -377,4 +379,5 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [1765-map-of-highest-peak](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
 <!---LeetCode Topics End-->
