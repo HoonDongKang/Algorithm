@@ -217,6 +217,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +229,7 @@ Summarizing the lecture content
 | [1046-last-stone-weight](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,6 +370,7 @@ Summarizing the lecture content
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -401,4 +404,5 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2642-design-graph-with-shortest-path-calculator/) | Hard |
 <!---LeetCode Topics End-->
