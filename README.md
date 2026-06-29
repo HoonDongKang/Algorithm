@@ -293,12 +293,14 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0687-longest-univalue-path](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0687-longest-univalue-path/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0687-longest-univalue-path](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0687-longest-univalue-path/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Indexed Tree
@@ -384,6 +386,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [0687-longest-univalue-path](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0687-longest-univalue-path/) | Medium |
 | [0743-network-delay-time](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
