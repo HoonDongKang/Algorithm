@@ -66,6 +66,7 @@ Summarizing the lecture content
 | [1929-concatenation-of-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2073-time-needed-to-buy-tickets](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +166,7 @@ Summarizing the lecture content
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1590-make-sum-divisible-by-p/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -291,11 +293,13 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
