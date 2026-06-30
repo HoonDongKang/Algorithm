@@ -293,6 +293,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0687-longest-univalue-path](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -302,6 +303,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0687-longest-univalue-path](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -424,6 +426,7 @@ Summarizing the lecture content
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
