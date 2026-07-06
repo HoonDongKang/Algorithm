@@ -27,6 +27,7 @@ Summarizing the lecture content
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0436-find-right-interval](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -114,6 +115,7 @@ Summarizing the lecture content
 | [0023-merge-k-sorted-lists](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0932-beautiful-array/) | Medium |
@@ -218,6 +220,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0622-design-circular-queue](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Heap (Priority Queue)
@@ -312,10 +315,12 @@ Summarizing the lecture content
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
