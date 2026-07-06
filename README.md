@@ -68,6 +68,7 @@ Summarizing the lecture content
 | [2065-maximum-path-quality-of-a-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2073-time-needed-to-buy-tickets](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Summarizing the lecture content
 | [0852-peak-index-in-a-mountain-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2223-sum-of-scores-of-built-strings](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +195,7 @@ Summarizing the lecture content
 | [1441-build-an-array-with-stack-operations](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +212,7 @@ Summarizing the lecture content
 | [0739-daily-temperatures](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +239,7 @@ Summarizing the lecture content
 | [1354-construct-target-array-with-multiple-sums](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2642-design-graph-with-shortest-path-calculator/) | Hard |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,11 +322,13 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
