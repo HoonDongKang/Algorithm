@@ -13,6 +13,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
@@ -127,6 +128,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
+| [0014-longest-common-prefix](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0093-restore-ip-addresses](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0214-shortest-palindrome](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
 | [0394-decode-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
@@ -447,4 +449,8 @@ Summarizing the lecture content
 | [0450-delete-node-in-a-bst](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
