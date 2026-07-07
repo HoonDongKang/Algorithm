@@ -457,5 +457,6 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0720-longest-word-in-dictionary/) | Medium |
 <!---LeetCode Topics End-->
