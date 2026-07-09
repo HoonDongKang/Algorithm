@@ -61,6 +61,7 @@ Summarizing the lecture content
 | [1470-shuffle-the-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1590-make-sum-divisible-by-p/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1664-ways-to-make-a-fair-array/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -389,6 +390,7 @@ Summarizing the lecture content
 | [0128-longest-consecutive-sequence](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2076-process-restricted-friend-requests](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2076-process-restricted-friend-requests/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -407,6 +409,7 @@ Summarizing the lecture content
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2076-process-restricted-friend-requests/) | Hard |
@@ -466,6 +469,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 ## Strongly Connected Component
 | Problem Name | Difficulty |
 | ------- | ------- |
