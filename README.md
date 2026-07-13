@@ -314,6 +314,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -324,6 +325,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -422,6 +424,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0687-longest-univalue-path/) | Medium |
 | [0743-network-delay-time](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
@@ -457,6 +460,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Trie
