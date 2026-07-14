@@ -73,6 +73,7 @@ Summarizing the lecture content
 | [2073-time-needed-to-buy-tickets](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3479-fruits-into-baskets-iii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/3479-fruits-into-baskets-iii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ Summarizing the lecture content
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2223-sum-of-scores-of-built-strings](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3479-fruits-into-baskets-iii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/3479-fruits-into-baskets-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,11 +346,13 @@ Summarizing the lecture content
 | [0493-reverse-pairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0731-my-calendar-ii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0731-my-calendar-ii/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3479-fruits-into-baskets-iii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/3479-fruits-into-baskets-iii/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0731-my-calendar-ii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0731-my-calendar-ii/) | Medium |
+| [3479-fruits-into-baskets-iii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/3479-fruits-into-baskets-iii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
