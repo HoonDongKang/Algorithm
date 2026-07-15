@@ -25,6 +25,7 @@ Summarizing the lecture content
 | [0088-merge-sorted-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0135-candy](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
@@ -490,5 +491,6 @@ Summarizing the lecture content
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0135-candy](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0860-lemonade-change](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 <!---LeetCode Topics End-->
