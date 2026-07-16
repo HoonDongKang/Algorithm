@@ -28,6 +28,7 @@ Summarizing the lecture content
 | [0128-longest-consecutive-sequence](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0198-house-robber](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
@@ -390,6 +391,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0494-target-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1668-maximum-repeating-substring/) | Easy |
