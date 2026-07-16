@@ -219,6 +219,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
@@ -387,6 +388,7 @@ Summarizing the lecture content
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1668-maximum-repeating-substring/) | Easy |
 ## Backtracking
@@ -496,4 +498,8 @@ Summarizing the lecture content
 | [0011-container-with-most-water](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0135-candy](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0860-lemonade-change](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
