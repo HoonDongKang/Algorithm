@@ -38,6 +38,7 @@ Summarizing the lecture content
 | [0463-island-perimeter](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [0494-target-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0622-design-circular-queue](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
@@ -389,6 +390,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0494-target-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1668-maximum-repeating-substring/) | Easy |
 ## Backtracking
@@ -396,6 +398,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0077-combinations](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
+| [0494-target-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
