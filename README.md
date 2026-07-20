@@ -27,6 +27,7 @@ Summarizing the lecture content
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0135-candy/) | Hard |
+| [0139-word-break](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0198-house-robber](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
@@ -145,6 +146,7 @@ Summarizing the lecture content
 | [0014-longest-common-prefix](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0093-restore-ip-addresses](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0097-interleaving-string/) | Medium |
+| [0139-word-break](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0214-shortest-palindrome](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0214-shortest-palindrome/) | Hard |
 | [0394-decode-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
@@ -178,6 +180,7 @@ Summarizing the lecture content
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -394,6 +397,7 @@ Summarizing the lecture content
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0097-interleaving-string](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0097-interleaving-string/) | Medium |
+| [0139-word-break](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0494-target-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1191-k-concatenation-maximum-sum/) | Medium |
@@ -489,6 +493,7 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Hard/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0720-longest-word-in-dictionary/) | Medium |
@@ -511,4 +516,5 @@ Summarizing the lecture content
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
