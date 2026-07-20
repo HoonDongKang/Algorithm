@@ -58,6 +58,7 @@ Summarizing the lecture content
 | [1019-next-greater-node-in-linked-list](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1052-grumpy-bookstore-owner/) | Medium |
+| [1191-k-concatenation-maximum-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1191-k-concatenation-maximum-sum/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -393,6 +394,7 @@ Summarizing the lecture content
 | [0070-climbing-stairs](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0494-target-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [1191-k-concatenation-maximum-sum](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1191-k-concatenation-maximum-sum/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/HoonDongKang/Algorithm/tree/main/LeetCode/Easy/1668-maximum-repeating-substring/) | Easy |
 ## Backtracking
